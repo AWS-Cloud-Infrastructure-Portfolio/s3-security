@@ -25,7 +25,7 @@ The implementation reflects common responsibilities in Cloud Engineer and Platfo
 
 ## Diagram
 
-![Lab Architecture Diagram](diagram.png)
+![Lab Architecture Diagram](diagram2.png)
 
 ---
 
